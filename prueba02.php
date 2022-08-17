@@ -10,7 +10,7 @@ print_r("hola mundo");
 echo("</br>");
 var_dump("hola mundo");
 echo "</br>";
-$nombre="Pepe"
+$nombre="Pepe";
 echo "Hola <b> $nombre </b>, bienvenido a clase";
 echo "hola".$nombre. "gusto de verte";
 ?>
